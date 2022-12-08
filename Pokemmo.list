@@ -1,7 +1,6 @@
 #名称：Pokemmo
-DOMAIN-SUFFIX，pokemmo.com，Pokemmo
-DOMAIN-SUFFIX，dl.pokemmo.com，Pokemmo
-DOMAIN-SUFFIX，dl.pokemmo.eu，Pokemmo 
-DOMAIN-SUFFIX，loginserver.pokemmo.com，Pokemmo 
-DOMAIN-SUFFIX，loginserver.pokemmo.eu，Pokemmo
-主机关键词，pokemmo，Pokemmo
+DOMAIN-SUFFIX，pokemmo.com
+DOMAIN-SUFFIX，dl.pokemmo.com
+DOMAIN-SUFFIX，dl.pokemmo.eu
+DOMAIN-SUFFIX，loginserver.pokemmo.com 
+DOMAIN-SUFFIX，loginserver.pokemmo.eu
