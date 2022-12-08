@@ -1,7 +1,2 @@
-# NAME: Pokemmo
-HOST-SUFFIX,pokemmo.com,Pokemmo
-HOST-SUFFIX,dl.pokemmo.com,Pokemmo
-HOST-SUFFIX,dl.pokemmo.eu,Pokemmo
-HOST-SUFFIX,loginserver.pokemmo.com,Pokemmo
-HOST-SUFFIX,loginserver.pokemmo.eu,Pokemmo
-HOST-KEYWORD,pokemmo,Pokemmo
+#名称：Pokemmo
+DOMAIN-SUFFIX，pokemmo.com，PokemmoDOMAIN-SUFFIX，dl.pokemmo.com，Pokemmo DOMAIN-SUFFIX，dl.pokemmo.eu，Pokemmo DOMAIN-SUFFIX，loginserver.pokemmo.com，Pokemmo DOMAIN-SUFFIX，loginserver.pokemmo.eu，Pokemmo主机关键词，pokemmo，Pokemmo
